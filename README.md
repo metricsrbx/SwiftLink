@@ -17,3 +17,7 @@ GUILD_ID=0000000000000000000
 APPKEY=00000000000
 TRELLOTOKEN=000000000000000
 ```
+
+## usage
+
+this bot is for someone, simple as. you can read the code & understand it or whatever, no demo given.
