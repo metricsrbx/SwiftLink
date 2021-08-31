@@ -1,9 +1,6 @@
 const { RichEmbed, Message } = require('discord.js')
 const Trello = require("trello");
-const productlist = "612bbeba6ec8547077983042"
-const boardId1 = "612baa5eddde3d60ef8936d0"
-var trello = new Trello("d83f454f404c941393c76a9b5376ccfc", "20f4761037b1566691e2959bede14b8c8c467733c6b33dcec9f498be58b42260");
-const cards = trello.getCardsForList(productlist)
+var trello = new Trello(process.env.APPKEY, process.env.TRELLOTOKEN);
 const rbx = require("noblox.js");
 const fetch = require("node-fetch");
 
