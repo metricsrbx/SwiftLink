@@ -21,3 +21,9 @@ TRELLOTOKEN=000000000000000
 ## usage
 
 this bot is for someone, simple as. you can read the code & understand it or whatever, no demo given.
+
+## Heroku Deployment
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+Remember to [activate](https://gyazo.com/af2ede18bd19787bd86072d0f5bb6025) the app. [View the logs here.](https://gyazo.com/7a6a0331fc797af58ea8ea02e0a91ebc)
